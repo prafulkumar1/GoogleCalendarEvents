@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873378099174",
+    "project_id": "calendarofevents-234a7",
+    "storage_bucket": "calendarofevents-234a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873378099174:android:9f94f272dc34b05b1b7027",
+        "android_client_info": {
+          "package_name": "com.calenderofevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873378099174-k6bvvo3jje0tmb3vahfj3n5lre7sgntu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeIxvSWYJ0qq2xBCnrf37gJ7ehQ3ON0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873378099174-k6bvvo3jje0tmb3vahfj3n5lre7sgntu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
